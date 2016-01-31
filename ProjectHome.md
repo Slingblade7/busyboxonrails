@@ -1,0 +1,1 @@
+A simple busybox installer/uninstaller/verifier that provides an on rails experience for Android devices.
